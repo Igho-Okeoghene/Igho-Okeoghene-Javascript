@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html Lang = "en">
+<head>
+<meta Charset = "UTF-8"/>
+<title> JS Project 2 Task </title>
+</head>
+<body>
+<script>
+var data = [
+{Principal: "2500", Time: "1.8"},
+{Principal: "1000", Time: "1.5"},
+{Principal: "3000", Time: "1"},
+{Principal: "2000", Time: "3"},
+]
+
+function interestCalculator (data){
+for ( let i =(( Principal * Rate * Time )/100)
+if (Principal>=2500 && <3 Time >1){
+data.push (Rate = "3");
+}
+else if (Principal>=2500 && Time>=3){
+data.push (Rate = "4");
+}
+else if (Principal<2500 || Time <=1({
+data.push (Rate = "2");
+}
+else{
+data.push (Rate = "1")
+}
+interestCalculator (data)
+console.log (interestCalculator)
+return "Interest Data"
+}
+</script>
+</body>
+</html>
